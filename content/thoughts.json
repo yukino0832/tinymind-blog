@@ -1,7 +1,7 @@
 [
   {
     "id": "1747065897553",
-    "content": "# 2025.5.12 Monday sun\n今天是我开始记录每日总结的第一天,不知道我能坚持多久呢:(\n早八,满课,下午的电子线路实习板子焊了好久.\n修了机械臂视觉代码的一个bug,在调用cv::findContours()时没有检查获取的contours是否为空就对contour使用了cv::minAreaRect()导致段错误.\n晚上跑了1500,然后打了三把cs.好想玩WA2.\n明天没有早八,去写一张六级卷子吧,只剩33天了啊.\n最后希望今晚睡个好觉.\nOyasumi,setsuna",
+    "content": "# 2025.5.12 Monday sun\n今天是我开始记录每日总结的第一天,不知道我能坚持多久呢:(  \n早八,满课,下午的电子线路实习板子焊了好久.  \n修了机械臂视觉代码的一个bug,在调用cv::findContours()时没有检查获取的contours是否为空就对contour使用了cv::minAreaRect()导致段错误.  \n晚上跑了1500,然后打了三把cs.好想玩WA2.  \n明天没有早八,去写一张六级卷子吧,只剩33天了啊.  \n最后希望今晚睡个好觉.  \nOyasumi,setsuna",
     "timestamp": "2025-05-12T16:04:57.553Z"
   },
   {
